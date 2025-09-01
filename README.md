@@ -67,13 +67,6 @@ Turn+ integrates **cutting-force modelling**, **time-domain dynamic-stability an
 
 ---
 
-## How it works – two sentences
-
-* Dynamics: single-DOF regenerative model solved with explicit Euler; delay handled via circular buffer.  
-* Surface: sweeps the tool-nose circle along the true (vibrating) centre path and extracts the envelope to compute roughness.
-
----
-
 ## Contributing
 
 Open to pull requests and issues. Typical contributions include
@@ -108,3 +101,4 @@ Turn+ is released under the **MIT License** – see `LICENSE`.
 ## Disclaimer
 
 The software is provided *as is* for research and educational use. Always verify simulation settings and results on your specific machine and tooling before production.
+
