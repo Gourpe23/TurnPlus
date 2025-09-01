@@ -1,5 +1,3 @@
-/* assets/css/style.scss */
-img.no-scale { max-width: none !important; width: auto !important; height: auto !important; }
 
 # Turn+ Tutorial — Reproducing the Case Study
 
@@ -19,7 +17,7 @@ Use this tab to define insert geometry, cutting coefficients and machine-tool mo
 ### 1.1 Insert geometry
 Choose the insert **shape** and **angles**, then set the **nose radius**.
 
-![Insert geometry](img/turnplus_tab_params_insert.png){:.no-scale}
+![Insert geometry](img/turnplus_tab_params_insert.png)
 
 *Example inputs used in the paper:* S (square) insert, nose radius **rε = 0.4 mm**, side-cutting-edge angle **κr = 80°**.
 
