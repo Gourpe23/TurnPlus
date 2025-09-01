@@ -1,3 +1,6 @@
+/* assets/css/style.scss */
+img.no-scale { max-width: none !important; width: auto !important; height: auto !important; }
+
 # Turn+ Tutorial — Reproducing the Case Study
 
 This step-by-step tutorial shows how to reproduce the **Turn+** case study from the paper: compute **stability-gradient maps** and then run a single-point **time-domain simulation** to obtain **forces, displacements,** and **surface roughness (Ra, Rz)**.
