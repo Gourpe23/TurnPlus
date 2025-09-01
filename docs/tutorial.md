@@ -112,11 +112,5 @@ The **Ra** / **Rz** values are computed from the envelope.
 
 ---
 
-## Reproduce the paper figures
-- **Figure 3:** stability sweep with the window above.  
-- **Figure 4:** time-domain run at **n = 1500 rpm**, **ap = 2.5 mm**, **f = 0.05 mm/rev**.
-
----
-
 ## Contact & issues
 If you encounter problems, please open a GitHub issue with your OS, MATLAB Runtime version, and a screenshot of the settings panel.
