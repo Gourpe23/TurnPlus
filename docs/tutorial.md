@@ -79,18 +79,22 @@ Fix one operating point and compute the time histories and reconstructed surface
 ![Dynamic tab — full](img/turnplus_surface_full.png)
 
 ### 4.1 Force and displacement histories
+Right: input panel used for the single-point simulation.
+
+![Input panel](img/turnplus_surface_params.png)
+
+
+
+### 4.2 Surface reconstruction
+
 Top-left: force; bottom-left: displacement. Both decay to steady state in the stable case.
 
 ![Force (top-left)](img/turnplus_surface_force.png)
 
-### 4.2 Surface reconstruction
 Centre-right: envelope/profile derived from the tool-nose path.
 
 ![Surface profile](img/turnplus_surface_profile.png)
 
-Right: input panel used for the single-point simulation.
-
-![Input panel](img/turnplus_surface_params.png)
 
 ### 4.3 Roughness results
 The **Ra** / **Rz** values are computed from the envelope.
