@@ -16,7 +16,7 @@ Use this tab to define insert geometry, cutting coefficients and machine-tool mo
 ### 1.1 Insert geometry
 Choose the insert **shape** and **angles**, then set the **nose radius**.
 
-![Insert geometry](img/turnplus_tab_params_insert.png)
+![Insert geometry](img/turnplus_tab_params_insert.png){:.no-scale}
 
 *Example inputs used in the paper:* S (square) insert, nose radius **rε = 0.4 mm**, side-cutting-edge angle **κr = 80°**.
 
