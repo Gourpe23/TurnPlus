@@ -54,8 +54,6 @@ Specify the window and resolution used by the stability sweep.
 *Example window:* **n = 1800–2000 rpm**, **ap = 0.5–5.0 mm**, **mesh = 11×11**.  
 Set **Isolines = 100**, **Periods to simulate = 30**. Click **RUN** (see right controls).
 
-![Run/Stop & progress](img/turnplus_tab_operation_controls.png)
-
 ---
 
 ## 3) A) Stability charts — interpret the results
