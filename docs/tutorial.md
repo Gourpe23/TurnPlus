@@ -99,8 +99,6 @@ Centre-right: envelope/profile derived from the tool-nose path.
 ### 4.3 Roughness results
 The **Ra** / **Rz** values are computed from the envelope.
 
-![Ra / Rz readout](img/turnplus_surface_roughness.png)
-
 *Example inputs:* **f = 0.05 mm/rev**, **ap = 1.0 mm**, **n = 1500 rpm**, **Periods = 30**.
 
 ---
