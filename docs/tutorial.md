@@ -82,7 +82,6 @@ Fix one operating point and compute the time histories and reconstructed surface
 Top-left: force; bottom-left: displacement. Both decay to steady state in the stable case.
 
 ![Force (top-left)](img/turnplus_surface_force.png)
-![Displacement (bottom-left)](img/turnplus_surface_displacement.png)
 
 ### 4.2 Surface reconstruction
 Centre-right: envelope/profile derived from the tool-nose path.
